@@ -1,2 +1,2 @@
-# shopping-rest-api
-Simple shopping REST API using Spring Boot
+# CodeX Test Task
+Shopping REST API using Spring Boot
